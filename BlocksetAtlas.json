@@ -1,0 +1,25 @@
+{
+	"items" : 
+	[
+		{
+			"name" : "Blocks:Blank White",
+			"origin" : 
+			[
+				0,
+				0
+			],
+			"size" : 
+			[
+				128,
+				128
+			]
+		}
+	],
+	"mipmap_levels" : 4,
+	"size" : 
+	[
+		128,
+		128
+	],
+	"texturePath" : "/var/mobile/Containers/Data/Application/FE35A9BE-E53D-4CED-A01B-21D93D562530/Documents/Craft Coaster.codea/BlocksetAtlas.png"
+}
